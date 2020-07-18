@@ -11,5 +11,5 @@ Run `sudo make install && make clean`.
 * Tag navigation via [shiftview](https://lists.suckless.org/dev/1104/7590.html) with `super + alt + h/l`.
 * Signal support for dwmblocks via [statuscmd](https://dwm.suckless.org/patches/statuscmd/).
 * [Sticky](https://dwm.suckless.org/patches/sticky/) with `super + f`.
-* Gaps via [uselessgaps](https://dwm.suckless.org/patches/uselessgap/).
+* Gaps via [useless gap](https://dwm.suckless.org/patches/uselessgap/).
 * Window [swallowing](https://dwm.suckless.org/patches/swallow/) (requires Linux/NetBSD).
