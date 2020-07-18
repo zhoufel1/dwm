@@ -1,6 +1,6 @@
 # My Build of dwm
 
-This is my build of [dwm](https://dwm.suckless.org/). Default terminal set to [Alacritty](https://github.com/alacritty/alacritt). Key bindings and other settings in `config.h`.
+This is my build of [dwm](https://dwm.suckless.org/). Default terminal set to [Alacritty](https://github.com/alacritty/alacritty). Key bindings and other settings in `config.h`.
 
 ## Building 
 Run `sudo make install && make clean`.
