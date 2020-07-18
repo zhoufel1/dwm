@@ -2,6 +2,9 @@
 
 This is my build of [dwm](https://dwm.suckless.org/). Default terminal set to [Alacritty](https://github.com/alacritty/alacritt). Key bindings and other settings in `config.h`.
 
+## Building 
+Run `sudo make install && make clean`.
+
 ## Patches
 * [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/) with `super + f`.
 * Per tag specific window layouts with [pertag](https://dwm.suckless.org/patches/pertag/).
