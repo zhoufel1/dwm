@@ -13,3 +13,4 @@ Run `sudo make install && make clean`.
 * [Sticky](https://dwm.suckless.org/patches/sticky/) with `super + s`.
 * Gaps via [useless gap](https://dwm.suckless.org/patches/uselessgap/).
 * Window [swallowing](https://dwm.suckless.org/patches/swallow/) (requires Linux/NetBSD).
+* Manual window management with [stacker](https://dwm.suckless.org/patches/stacker/).
