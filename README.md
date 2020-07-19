@@ -5,7 +5,7 @@ This is my build of [dwm](https://dwm.suckless.org/). Default terminal set to [A
 ## Building 
 Run `sudo make install && make clean`.
 
-## Patches
+## Patches + fixes
 * [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/) with `super + shift + f`.
 * Per tag specific window layouts with [pertag](https://dwm.suckless.org/patches/pertag/).
 * Tag navigation via [shiftview](https://lists.suckless.org/dev/1104/7590.html) with `super + alt + h/l`.
@@ -14,3 +14,4 @@ Run `sudo make install && make clean`.
 * Gaps via [useless gap](https://dwm.suckless.org/patches/uselessgap/).
 * Window [swallowing](https://dwm.suckless.org/patches/swallow/) (requires Linux/NetBSD).
 * Manual window management with [stacker](https://dwm.suckless.org/patches/stacker/).
+* Picom transparent border [fix](https://github.com/szatanjl/dwm/commit/1529909466206016f2101457bbf37c67195714c8)
